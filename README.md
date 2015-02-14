@@ -1,3 +1,6 @@
+Link to HTML version of the project:  
+https://rpubs.com/Daria/59476
+
 ## Introduction
 
 It is now possible to collect a large amount of data about personal
